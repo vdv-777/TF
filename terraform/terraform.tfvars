@@ -1,5 +1,5 @@
 # Перменные для провайдера
-YC_TOKEN = "t1.9euelZqQkJ3HisyPzMqckZSYzYzNz-3rnpWanZWMlo-azp2OyZHPjprGxp3l8_dQWzM_-e9dQFRd_t3z9xAKMT_5711AVF3-1eL17Iac0ZCeiouX0Y-KnZOWnNKMm5Tt-ZCPmpGWm83n9euelZrHmYmZxo2Tl4ubzMjPmZiXyu_8xeuelZrHmYmZxo2Tl4ubzMjPmZiXyr3rnpWanpOXlJuJyZHGj4yNlsnGz5G164ac0ZaektGQj5qRlpvSjJqNiZqN.O9LuVhs68fu6iOtKexDn6rrL0wS_0XJDsUHPbn_9ufHi5idVHBRQxI7Ek1BtsMQnuv3R1xq_5PhQrH1l_RyOCw"
+YC_TOKEN = "*****"
 cloud_id = "b1g3jddf4nv5e9okle7p"
 folder_id = "b1gp8bok5g6rcfdop766"
 zone = "ru-central1-a"

@@ -11,4 +11,4 @@ users:
     groups: sudo
     lock_passwd: false
     ssh_authorized_keys:
-     - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCl8FbuQKT3fW2SgQkeB6RKB9UTT47EpBsCbRITeUCKN23bv2kxK069Y6r9qLNaA0jlzztUP8iRiK4uWRClaa5H5HU9bnqG7Kl+jGEuyo0Y/uCUdr41Y2pUGrVEXMoF0cFaDkXhJQk2rKTeLSH8bkjNQx+FJKAbiZKJ0qbA4/Id/lgge/SIpTkGHMfQgHkCRVqr31jOhBYbTlHIMZhITR6v4WOO1r+uP8qsV/+R/vyvoT/OCSjzK/ospIjxvtsiFRtNQWIpVkYMA636A5wpYlGQosuy8cDAjctnrZRavIHF+8mQNX3O8SbtPP0vAaNIs9nm8Y+F2otKTGWUuEI7XuqN16U5tlZRP4vofNbOinwE2TEoSjXrMV5H/BfPXXcX0LSRHuPdznDDhMBg8dTKcQC0r7I3br9GS9aJehT5G9+o9aCe6CM17thbLJUezDbN81rZtwo0eHoHa1j/bV9E307n0sskITqLLS/FZxecovAKeQieou/huSbdyYZhE6IGZQM= student@fhmga2s7sfjnu8v7e1jk
+     - ssh-rsa *****
